@@ -29,6 +29,12 @@
       "validade": "2022-06-14",
       "precoProduto": 100.5,
       "id": 5
+    },
+    {
+      "nome": "Atividade Aula 16",
+      "validade": "2022-06-21",
+      "precoProduto": 100,
+      "id": 6
     }
   ]
 }
